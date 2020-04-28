@@ -1,2 +1,2 @@
-# py4e
-Python Exercises created by Rico
+# py4e_exercises
+A repository to store all Python For Everybody Specialization exercises.
